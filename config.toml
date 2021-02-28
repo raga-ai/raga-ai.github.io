@@ -32,10 +32,14 @@ publishDir = "./"
   weight = 2
 
   [[menu.header]]
-  name = "Features"
+  name = "What we do"
   URL = "#features"
   weight = 3
 
+  [[menu.header]]
+  name = "Contact"
+  URL = "#contact"
+  weight = 4
 
   [[menu.footer]]
   name = "Contact"
@@ -55,7 +59,4 @@ publishDir = "./"
 
   [params.footer]
       copyright = "© Raga.ai - All rights reserved."
-      [params.footer.radity_logo]
-        x = "img/general/design-and-code-radity.png"
-        _2x = "img/general/design-and-code-radity@2x.png"
-        alt = "Design & Code - Radity"
+

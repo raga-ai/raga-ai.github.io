@@ -42,7 +42,7 @@ about:
   enable: true
   title: "Who are we?"
   content: '<p class="lead">
-    We are a team passionate about Carnatic music and look forward to working with Sabhas, musicians and rasikas to bring Carnatic music to the next generation. 
+    We are a team passionate about Carnatic music and look forward to working with Sabhas, musicians and rasikas to bring Carnatic music to the next generation. We are students and teachers of music, and most passionate Rasikas that you will meet. We love Carnatic music. 
     </p>'
   button:
     icon: "icon-smile-fill"
@@ -56,6 +56,7 @@ about:
 # Client & Work
 features:
   title: "What we do"
+  subtitle: "Bring carnatic music to its next evolution"
   enable: true
 
   works:
@@ -74,7 +75,7 @@ features:
       is_even: false
 
     - title: "Ticket and concert management"
-      description: "We take care of ticketing, concert event management, transport and more.. so you can focus on what matters"
+      description: "Home concert or at a Sabha - We take care of ticketing, sound and lighting, concert event management, transport and more.. so you can focus on what matters"
       image:
         x: "myimages/stage.png"
         _2x: "myimages/stage.png"
@@ -94,7 +95,7 @@ contact:
     message: "Type Your Message Here"
   phone:
     title: "Phone Number"
-    number: "+91 (44) 5050 10 994"
+    number: "+91 98384 21147"
   email:
     title: "Email"
     email: '<a href="mailto:contactraga.ai@gmail.com">contactraga.ai@gmail.com</a>'
