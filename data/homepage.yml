@@ -23,7 +23,7 @@ showcase:
   button:
     icon: "icon-mail-fill"
     btnText: "Schedule a demo!"
-    URL: "contactraga.ai@gmail.com"
+    URL: "#contact"
 
   socialLinks:
 
