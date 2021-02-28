@@ -1,7 +1,7 @@
 baseURL = "https://raditian-hugo.radity.com/"
 languageCode = "en-us"
 theme = "raditian"
-
+publishDir = "./"
 
 # Plugins
 [params.plugins]
