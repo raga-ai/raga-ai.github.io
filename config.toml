@@ -31,15 +31,21 @@ publishDir = "./"
   URL = "#about"
   weight = 2
 
+  [[menu.header]]
+  name = "Features"
+  URL = "#features"
+  weight = 3
+
+
   [[menu.footer]]
   name = "Contact"
   URL = "#contact"
-  weight = 3
+  weight = 4
 
 
 [params]
 
-  sections = ["showcase", "about", "contact"]
+  sections = ["showcase", "about", "features", "contact"]
 
   googleTagManagerID = "GTM-000000" # Google Analytics works with Google Tag Manager
 
