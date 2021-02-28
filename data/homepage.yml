@@ -10,11 +10,11 @@ showcase:
   description: "You bring your talent and crew; we bring interactive concert experiences to your Rasikas. Together, we can keep what is old and gold, and bring the rest up to what today's Rasikas expect and deserve."
   image:
     alt: "Showcase keyboard and mouse image"
-    x: "img/showcase/showcase.png"
-    _2x: "img/showcase/showcase@2x.png"
+    x: "./img/showcase/showcase.png"
+    _2x: "./img/showcase/showcase@2x.png"
   imageMobile:
     alt: "Showcase keyboard and mouse image"
-    x: "img/showcase/showcase-mobile.png"
+    x: "./img/showcase/showcase-mobile.png"
 
   button:
     icon: "icon-mail-fill"
