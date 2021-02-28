@@ -1,4 +1,4 @@
-baseURL = "https://raditian-hugo.radity.com/"
+baseURL = "https://raga-ai.github.io/"
 languageCode = "en-us"
 theme = "raditian"
 publishDir = "./"
@@ -48,28 +48,23 @@ publishDir = "./"
   weight = 2
 
   [[menu.footer]]
-  name = "Portfolio"
-  URL = "#portfolio"
-  weight = 3
-
-  [[menu.footer]]
   name = "Contact"
   URL = "#contact"
-  weight = 4
+  weight = 3
 
 
 [params]
 
-  sections = ["showcase", "about", "education", "experience", "client-and-work", "testimonial", "contact", "newsletter"]
+  sections = ["showcase", "contact", "newsletter"]
 
   googleTagManagerID = "GTM-000000" # Google Analytics works with Google Tag Manager
 
   [params.logo]
-    text1 = "Andreas"
-    text2 = "Ellure"
+    text1 = "raga."
+    text2 = "ai"
 
   [params.footer]
-      copyright = "© Raditian. All rights reserved."
+      copyright = "© Raga.ai. All rights reserved."
       [params.footer.radity_logo]
         x = "img/general/design-and-code-radity.png"
         _2x = "img/general/design-and-code-radity@2x.png"
