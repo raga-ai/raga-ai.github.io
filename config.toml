@@ -31,22 +31,6 @@ publishDir = "./"
   URL = "#about"
   weight = 2
 
-  [[menu.header]]
-  name = "Portfolio"
-  URL = "#portfolio"
-  weight = 3
-
-  [[menu.header]]
-  name = "Contact"
-  URL = "#contact"
-  weight = 4
-
-
-  [[menu.footer]]
-  name = "About"
-  URL = "#about"
-  weight = 2
-
   [[menu.footer]]
   name = "Contact"
   URL = "#contact"
@@ -55,16 +39,16 @@ publishDir = "./"
 
 [params]
 
-  sections = ["showcase", "contact", "newsletter"]
+  sections = ["showcase", "about", "contact"]
 
   googleTagManagerID = "GTM-000000" # Google Analytics works with Google Tag Manager
 
   [params.logo]
-    text1 = "raga."
-    text2 = "ai"
+    text1 = "raga.ai"
+    text2 = ""
 
   [params.footer]
-      copyright = "© Raga.ai. All rights reserved."
+      copyright = "© Raga.ai - All rights reserved."
       [params.footer.radity_logo]
         x = "img/general/design-and-code-radity.png"
         _2x = "img/general/design-and-code-radity@2x.png"
